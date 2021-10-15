@@ -1,8 +1,8 @@
 # envoy-opa
 Envoy integration with Open Policy Agent (OPA)
 
-Pre-requisites
---------------
+# Pre-requisites
+# --------------
 1. Docker Engine installed and running
 2. Docker Compose installed
 2. Build service-template spring boot application and copy the jar file from ./target folder to the folder envoy-opa
