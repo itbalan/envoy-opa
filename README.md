@@ -41,6 +41,9 @@ Note: Change the header 'from' value to anything other than 'partner2' or remove
 Case 1: This service open for anybody to access <br>
 curl --location --request GET 'http://localhost:8080/template/'
 
+Result: you should see the result with the message printed
+  
+
   
 
 
